@@ -1,30 +1,23 @@
-track WCE_FBY2578_1 
-type bigWig 
-autoScale group 
-visibility full 
-color 100,100,100 
-bigDataUrl ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7928nnn/GSM7928760/suppl/GSM7928760_WCE_FBY2578_1.bw 
-shortLabel WCE_FBY2578_1 
-longLabel whole cell extract (WCE) fraction of chromatin from Rpb3-HA (Rpb1 CTD WT) strain (FBY2578) 
-group ChIP_RNAPII 
+track WCE_FBY2578_1
+type bigWig
+visibility full
+color 100,100,100
+bigDataUrl ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7928nnn/GSM7928760/suppl/GSM7928760_WCE_FBY2578_1.bw
+shortLabel WCE_FBY2578_1
+longLabel whole cell extract (WCE) fraction of chromatin from Rpb3-HA (Rpb1 CTD WT) strain (FBY2578)
 
-track WCE_FBY2578_2 
-type bigWig 
-autoScale group 
-visibility full 
-color 100,100,100 
-bigDataUrl ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7928nnn/GSM7928761/suppl/GSM7928761_WCE_FBY2578_2.bw 
-shortLabel WCE_FBY2578_2 
-longLabel whole cell extract (WCE) fraction of chromatin from Rpb3-HA (Rpb1 CTD WT) strain (FBY2578) 
-group ChIP_RNAPII 
+track WCE_FBY2578_2
+type bigWig
+visibility full
+color 100,100,100
+bigDataUrl ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7928nnn/GSM7928761/suppl/GSM7928761_WCE_FBY2578_2.bw
+shortLabel WCE_FBY2578_2
+longLabel whole cell extract (WCE) fraction of chromatin from Rpb3-HA (Rpb1 CTD WT) strain (FBY2578)
 
-track 8_FB2586_rev 
-type bigWig 
-autoScale group 
-visibility full 
-color 0,0,200 
-bigDataUrl ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7928nnn/GSM7928820/suppl/GSM7928820_8_FB2586_rev.bw 
-shortLabel 8_FB2586_rev 
-longLabel RNA-seq from Rpb3-HA Rpb1 CTD Y1F strain (FBY2586) 
-group RNA 
-
+track 8_FB2586_rev
+type bigWig
+visibility full
+color 0,0,200
+bigDataUrl ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7928nnn/GSM7928820/suppl/GSM7928820_8_FB2586_rev.bw
+shortLabel 8_FB2586_rev
+longLabel RNA-seq from Rpb3-HA Rpb1 CTD Y1F strain (FBY2586)
