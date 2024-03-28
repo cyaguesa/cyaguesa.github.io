@@ -1,0 +1,5 @@
+hub pombe_bachand
+shortLabel pombe_bachand_S2A
+longLabel This is the trackhub hosting the genome browser files supporting the Rpb1 CTD S2A / Set2 paper from Bachand's lab
+genomesFile genome.txt
+email yague.carlo@gmail.com
