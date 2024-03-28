@@ -1,3 +1,3 @@
-genome Schizosaccharomyces_pombe
-trackDb Schizosaccharomyces_pombe/trackDb.txt
+genome ASM294v2
+trackDb ASM294v2/trackDb.txt
 groups groups.txt
