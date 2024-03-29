@@ -126,8 +126,8 @@
 			"order": 11
 		},
 		{
-			"url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7928nnn/GSM7928766/suppl/GSM7928766_IPHA_FBY2578_2.bw",
-			"filename": "GSM7928766_IPHA_FBY2578_2.bw",
+			"url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7928nnn/GSM7928767/suppl/GSM7928767_IPHA_FBY2581_2.bw",
+			"filename": "GSM7928767_IPHA_FBY2581_2.bw",
 			"name": "IP Rpb3-HA (Rpb1 CTD S2A) #2",
 			"format": "bigwig",
 			"type": "wig",
