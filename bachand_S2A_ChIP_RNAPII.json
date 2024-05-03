@@ -186,30 +186,6 @@
 			"order": 14
 		},
 		{
-			"url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7928nnn/GSM7928772/suppl/GSM7928772_IPMYC_FBY2830_1.bw",
-			"filename": "GSM7928772_IPMYC_FBY2830_1.bw",
-			"name": "IP Pcf11-myc (Rpb1 CTD S2A) #1",
-			"format": "bigwig",
-			"type": "wig",
-			"color": "#ff726e",
-			"autoscale": true,
-			"min": 0,
-			"max": 500,
-			"order": 15
-		},
-		{
-			"url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7928nnn/GSM7928773/suppl/GSM7928773_WCE_FBY2830_1.bw",
-			"filename": "GSM7928773_WCE_FBY2830_1.bw",
-			"name": "WCE (Rpb1 CTD S2A) #1",
-			"format": "bigwig",
-			"type": "wig",
-			"color": "#a09fa0",
-			"autoscale": true,
-			"min": 0,
-			"max": 500,
-			"order": 16
-		},
-		{
 			"url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7928nnn/GSM7928774/suppl/GSM7928774_IPMYC_FBY2830_2.bw",
 			"filename": "GSM7928774_IPMYC_FBY2830_2.bw",
 			"name": "IP Pcf11-myc (Rpb1 CTD S2A) #2",
@@ -256,18 +232,6 @@
 			"min": 0,
 			"max": 500,
 			"order": 20
-		},
-		{
-			"url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7928nnn/GSM7928778/suppl/GSM7928778_IPFLAG_FBY2830_1.bw",
-			"filename": "GSM7928778_IPFLAG_FBY2830_1.bw",
-			"name": "IP Rpb3-FLAG (Rpb1 CTD S2A) #1",
-			"format": "bigwig",
-			"type": "wig",
-			"color": "#ff726e",
-			"autoscale": true,
-			"min": 0,
-			"max": 500,
-			"order": 21
 		},
 		{
 			"url": "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7928nnn/GSM7928779/suppl/GSM7928779_IPFLAG_FBY2830_2.bw",
